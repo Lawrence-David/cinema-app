@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/cinema reservation code validator/cinema.html" }
+  ]
+}
